@@ -1,4 +1,3 @@
-copia_de_catalogo_hockey_store.
 "use client";
 
 import { useEffect, useState } from "react";
