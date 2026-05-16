@@ -1,5 +1,5 @@
 copia_de_catalogo_hockey_store.
-  jsx"use client";
+"use client";
 
 import { useEffect, useState } from "react";
 
